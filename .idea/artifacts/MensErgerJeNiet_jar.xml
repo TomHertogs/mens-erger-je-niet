@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MensErgerJeNiet:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MensErgerJeNiet_jar</output-path>
+    <root id="archive" name="MensErgerJeNiet.jar">
+      <element id="module-output" name="MensErgerJeNiet" />
+    </root>
+  </artifact>
+</component>
